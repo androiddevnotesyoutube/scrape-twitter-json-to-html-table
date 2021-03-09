@@ -44,7 +44,6 @@ jsonhtml.py: To convert the JSON data to HTML table. You don't need to modify th
 Make sure you have python and pip installed.
 ```
 pip3 install --user --upgrade git+https://github.com/twintproject/twint.git@origin/master#egg=twint
-
 ```
 
 ## Run Twint
