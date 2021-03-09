@@ -17,6 +17,28 @@ json2html: https://github.com/softvar/json2html
 Video Usage Instructions on Awesome Dev Notes YouTube: https://youtu.be/042-QIhC5ms
 </p>
 
+
+<br>
+
+<p align="center">
+  <a href="#"><img alt="Twitter Badge" src="https://badgen.net/badge/Platform/Twitter?icon=https://raw.githubusercontent.com/androiddevnotes/learn-jetpack-compose-android/master/assets/android.svg&color=3ddc84"/></a>
+  <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
+
+</p>
+
+<br>
+<p align="center">
+<img src="assets/twint_androiddevnotes.png" alt="twint awesomedevnotes - androiddevnotes youtube thumbnail"></img>
+</p><br>
+
+
+filter.py: To filter out the JSON nodes. You can modify the script to remove the JSON data that is not required or add the ones you need.
+
+jsonhtml.py: To convert the JSON data to HTML table. You don't need to modify this script to work.
+
+
+<br>
+
 ## Installing Twint
 
 Make sure you have python and pip installed.
@@ -39,25 +61,6 @@ The output will be JSON data.
 ## Watch the [Video]() to see how to turn the above scraped Twitter JSON data to HTML table.
 
 The video shows the usage of filter.py and jsonhtml.py
-
-<br>
-
-<p align="center">
-  <a href="#"><img alt="Twitter Badge" src="https://badgen.net/badge/Platform/Twitter?icon=https://raw.githubusercontent.com/androiddevnotes/learn-jetpack-compose-android/master/assets/android.svg&color=3ddc84"/></a>
-  <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
-
-</p>
-
-<br>
-<p align="center">
-<img src="assets/twint_androiddevnotes.png" alt="twint awesomedevnotes - androiddevnotes youtube thumbnail"></img>
-</p><br>
-
-
-filter.py: To filter out the JSON nodes. You can modify the script to remove the JSON data that is not required or add the ones you need.
-
-jsonhtml.py: To convert the JSON data to HTML table. You don't need to modify this script to work.
-
 
 <br>
 
